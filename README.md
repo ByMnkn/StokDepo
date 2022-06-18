@@ -2,3 +2,6 @@
 
 # StokDepo
 Stok/Depo işlemleriniz için basit depolama programı
+
+# Veritabanı
+SQL
